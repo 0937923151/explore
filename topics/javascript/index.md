@@ -1,4 +1,4 @@
----
+explore/topics/javascript/-
 aliases: js
 created_by: Brendan Eich
 display_name: JavaScript
